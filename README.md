@@ -1,2 +1,2 @@
 # automatetheboringstuff
-Working through the bok Automate The Boring Stuff using py3
+Working through the book Automate The Boring Stuff using py3
